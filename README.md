@@ -16,7 +16,7 @@
  
 ## 02. 安裝與開啟教學
 1. 下載網址： https://dev.mysql.com/downloads/
-2. 下載過程：點擊 `MySQL Installer for Windows`並選擇2.4M，進去頁面後無須登錄步驟，請點擊`No thanks, just start my download.` 直接下載並安裝。安裝時請注意資料庫管理密碼設定完不能忘記，於後都會用到。
+2. 下載過程：點擊 `MySQL Installer for Windows`並選擇2.4M，進去頁面後無須登錄步驟，請點擊`No thanks, just start my download.` 直接下載並安裝。安裝時請注意資料庫管理密碼，設定完後不能忘記，於後都會用到。
 3. 開啟後預設已創建好連線，若沒有連線請點擊 `MySQL Connections` 旁的 `＋`執行創建步驟，創建好後就可以開啟，開始寫SQL指令。
 
 ## 03. 表格與關係鍵
